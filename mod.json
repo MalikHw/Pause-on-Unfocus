@@ -1,11 +1,11 @@
 {
-	"geode": "4.2.0",
+	"geode": "5.6.1",
 	"gd": {
-		"win": "2.2074"
+		"win": "2.2081"
 	},
 	"id": "alphalaneous.pause_on_unfocus",
 	"name": "Pause on Unfocus",
-	"version": "v1.0.2",
+	"version": "v1.0.3",
 	"developer": "Alphalaneous",
 	"description": "Pauses the game on unfocus",
 	"links": {
